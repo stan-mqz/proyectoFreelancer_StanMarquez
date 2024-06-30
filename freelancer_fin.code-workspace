@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../freelancer_fin"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "freelancer_fin"
+	}
+}
